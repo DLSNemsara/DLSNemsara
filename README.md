@@ -67,4 +67,5 @@ I am a second-year Computer Science student at the University of Plymouth, curre
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dlsnemsara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding animation" width="250px" align="right" />
 </p>
