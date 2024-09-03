@@ -28,7 +28,7 @@ I am a second-year Computer Science student at the University of Plymouth, curre
 
 - 📫 How to reach me: **sinelnemsara19@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/sinel-nemsara02)
-- 📄 Know about my experiences: [Resume](https://shorturl.at/I9jc3)
+- 📄 Know about my experiences: [Resume](https://shorturl.at/6We3j)
 
 ### Connect with me
 
