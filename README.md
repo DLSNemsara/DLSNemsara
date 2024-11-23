@@ -16,14 +16,14 @@
 
 ### About Me
 
-I am a **final-year Computer Science student** at the **University of Plymouth**, currently studying at **NSBM Green University, Sri Lanka**. I'm passionate about **software development**, **DevOps**, and **cloud computing**, and my goal is to become a skilled **DevOps engineer** who contributes to innovative projects in the software industry.
+Currently a **final-year Computer Science student** at the **University of Plymouth**, studying at **NSBM Green University** in Sri Lanka. Passionate about **software development**, **DevOps**, and **cloud computing**. Striving to become a skilled **DevOps engineer** and contribute to innovative projects in the software industry.
 
 ### Current Focus
 
-- 🌱 I’m currently learning **DevOps, Cloud Computing with Azure, React, and Flutter Frameworks**.
-- 🌐 I'm actively working on a **blockchain-based voting system** as my **final year project**.
+- 🌱 I’m currently learning **DevOps**, **Cloud Computing with Azure**, **React**, and **Flutter Frameworks**.
+- 🌐 Working on a **blockchain-based voting system** for my **final year project**.
 - 📱 Building a **Flutter eCommerce app** with an **admin panel** as part of a bootcamp project.
-- 🤝 I’m looking for help with **DevOps** and exploring new challenges in **cloud technologies**.
+- 🤝 Looking for help with **DevOps** and exploring new challenges in **cloud technologies**.
 - 💬 Ask me about **Azure DevOps**, **React**, **Flutter**, or anything related to **DevOps**!
 
 ### Contact
@@ -52,9 +52,6 @@ I am a **final-year Computer Science student** at the **University of Plymouth**
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
