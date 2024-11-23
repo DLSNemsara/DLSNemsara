@@ -16,13 +16,15 @@
 
 ### About Me
 
-I am a second-year Computer Science student at the University of Plymouth, currently studying at NSBM Green University, Sri Lanka. I have a strong passion for software development, DevOps, and cloud computing. My goal is to become a skilled DevOps engineer and contribute to innovative projects in the software industry.
+I am a **final-year Computer Science student** at the **University of Plymouth**, currently studying at **NSBM Green University, Sri Lanka**. I'm passionate about **software development**, **DevOps**, and **cloud computing**, and my goal is to become a skilled **DevOps engineer** who contributes to innovative projects in the software industry.
 
 ### Current Focus
 
-- 🌱 I’m currently learning **DevOps, Cloud Computing with Azure, React, and Flutter Frameworks**
-- 🤝 I’m looking for help with **DevOps**
-- 💬 Ask me about **Azure DevOps**
+- 🌱 I’m currently learning **DevOps, Cloud Computing with Azure, React, and Flutter Frameworks**.
+- 🌐 I'm actively working on a **blockchain-based voting system** as my **final year project**.
+- 📱 Building a **Flutter eCommerce app** with an **admin panel** as part of a bootcamp project.
+- 🤝 I’m looking for help with **DevOps** and exploring new challenges in **cloud technologies**.
+- 💬 Ask me about **Azure DevOps**, **React**, **Flutter**, or anything related to **DevOps**!
 
 ### Contact
 
