@@ -21,8 +21,8 @@ Currently a **final-year Computer Science student** at the **University of Plymo
 ### Current Focus
 
 - 🌱 I’m currently learning **DevOps**, **Cloud Computing with Azure**, **React**, and **Flutter Frameworks**.
-- 🌐 Working on a **blockchain-based voting system** for my **final year project**.
-- 📱 Building a **Flutter eCommerce app** with an **admin panel** as part of a bootcamp project.
+- 🌐 Working on a **blockchain-based voting system** for my **final year research project**.
+- 📱 Building a **Flutter eCommerce app** with an **admin panel** as part of a personal project.
 - 🤝 Looking for help with **DevOps** and exploring new challenges in **cloud technologies**.
 - 💬 Ask me about **Azure DevOps**, **React**, **Flutter**, or anything related to **DevOps**!
 
