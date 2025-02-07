@@ -29,7 +29,7 @@ Currently a **final-year Computer Science student** at the **University of Plymo
 ### Contact
 
 - 📫 How to reach me: **sinelnemsara19@gmail.com**
-- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/sinel-nemsara02)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sinel-nemsara)
 - 📄 Know about my experiences: [Resume](https://shorturl.at/6We3j)
 
 ### Connect with me
