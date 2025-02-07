@@ -35,7 +35,7 @@ Currently a **final-year Computer Science student** at the **University of Plymo
 ### Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sinel-nemsara02" target="blank">
+  <a href="https://www.linkedin.com/in/sinel-nemsara" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/23541137/d-l-sinel-nemsara" target="blank">
