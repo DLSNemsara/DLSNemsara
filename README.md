@@ -88,6 +88,6 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding animation" width="250px" align="right" />
 </p>
 
-[![Sinel's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DLSNemsara&theme=radical&hide_border=true)
+![Sinel's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DLSNemsara&theme=radical&hide_border=true)
 
 
