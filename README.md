@@ -83,11 +83,10 @@
 
 ### Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dlsnemsara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding animation" width="250px" align="right" />
-</p>
+
+  [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=dlsnemsara&theme=blueberry-duo)](https://git.io/streak-stats)
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding animation" width="250px" align="right" />
+
 
 ![Sinel's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DLSNemsara&theme=radical&hide_border=true)
-
 
