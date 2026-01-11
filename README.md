@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinel Nemsara</h1>
-<h3 align="center">Intern Software Engineer | Final Year CS Student @ University of Plymouth</h3>
+<h3 align="center">Associate Software Engineer | Computer Science Graduate @ University of Plymouth</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems;DevOps+Enthusiast+🛠️;MERN+Stack+%7C+Spring+Boot+%7C+Linux;Learning+Relentlessly+🚀" alt="Typing SVG" />
@@ -22,8 +22,8 @@
 ### About Me
 
 
-🚀 I'm an **Intern Software Engineer**, currently building **scalable fullstack systems** and mastering the DevOps lifecycle.  
-🎓 Also a **final-year Computer Science student** at the **University of Plymouth**.  
+🚀 I'm an **Associate Software Engineer**, currently building **scalable fullstack systems** and mastering the DevOps lifecycle.  
+🎓 Also a **Computer Science Graduate** at the **University of Plymouth**.  
 💡 I enjoy blending **fullstack engineering**, **DevOps pipelines**, and **cloud-native development** to deliver reliable software at scale.
 
 ### Current Focus
@@ -82,7 +82,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> </p>
 
 ### Contribution Graph
-
 
   [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=dlsnemsara&theme=blueberry-duo)](https://git.io/streak-stats)
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding animation" width="250px" align="right" />
